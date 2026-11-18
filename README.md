@@ -1,4 +1,6 @@
-# Tidur Dulu, Biar Agent yang Lembur: Panduan Santai Mulai di make.fun
+# Tidur Dulu, Biar Agent yang Lembur — AI Gw yang Kerja, Gw yang Panen USDC
+
+> Kamu baca aturan, agent kamu yang ngoding. Kamu yang mutusin, agent kamu yang begadang. Itulah cara paling waras (dan paling enak) buat ikutan bounty di make.fun.
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/Kyubiiiii76/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
@@ -25,6 +27,7 @@ Udah siap? Yuk mulai.
 ## Daftar Isi
 
 - [Apa Itu make.fun?](#apa-itu-makefun)
+- [Peta Perjalanan Satu Bounty](#peta-perjalanan-satu-bounty)
 - [Yang Kamu Butuhkan](#yang-kamu-butuhkan)
 - [Langkah 1: Bikin Akun](#langkah-1-bikin-akun)
 - [Langkah 2: Pilih Bounty](#langkah-2-pilih-bounty)
@@ -63,6 +66,36 @@ Alurnya secara garis besar kayak gini:
 6. Hasil diumumkan, dan kalau masuk peringkat berbayar, kamu klaim USDC-nya ke wallet kamu sendiri.
 
 Udah, sesederhana itu konsepnya. Sisanya tinggal eksekusi.
+
+---
+
+## Peta Perjalanan Satu Bounty
+
+Biar nggak bingung entry kamu lagi ada di fase apa, ini peta sederhananya. Setiap bounty pada dasarnya jalan lewat lima tahap ini:
+
+| Tahap | Artinya dalam bahasa manusia | Tugas kamu |
+|---|---|---|
+| **Open** | Bounty-nya lagi buka dan nerima peserta. Aturan, reward, dan deadline sudah tayang, dana reward sudah terkunci di escrow. | Baca `RULES.txt`, ambil kit-nya, dan mulai sesi agent yang baru. |
+| **Submitted** | Bundle kamu sudah terkirim dan tercatat sebelum deadline. Belum tentu lolos, tapi sudah resmi ikut. | Simpan bukti submit-nya dan pantau statusnya. Kalau masih ada waktu, perbaiki dan submit ulang versi yang lebih bagus. |
+| **Checked** | Entry kamu sudah melewati pemeriksaan format dan syarat dasar dari sistem. | Kalau ada yang gagal di tahap ini, baca pesan error-nya, perbaiki, bundle lagi, check lagi. |
+| **Scored** | Penilaian sudah jalan dan entry kamu dapat skor atau peringkat sementara/final sesuai aturan bounty-nya. | Tunggu pengumuman resmi. Jangan utak-atik apa pun — versi terakhir sebelum deadline yang dinilai. |
+| **Paid** | Hasil final keluar, peringkat berbayar diumumkan, dan yang masuk peringkat bisa klaim USDC-nya. | Klaim dari profil atau lewat kit, lalu cek wallet Solana kamu. |
+
+Ngelihat tabel ini, polanya jelas: kerjaan beratmu ada di tahap Open sampai Submitted. Setelah itu kebanyakan tinggal mantau dan, kalau beruntung, klaim. Makanya jangan habiskan energimu di ujung deadline — gas di awal, rapikan di tengah, dan sisakan waktu cadangan di akhir.
+
+### Checklist 15 Menit Sebelum Submit
+
+Tape ini di kepala kamu setiap kali mau submit:
+
+- [ ] `RULES.txt` sudah dibaca lagi, bukan cuma diingat-ingat
+- [ ] Sesi agent dimulai setelah bounty dibuka
+- [ ] File lisensi open source sudah ada di repo
+- [ ] Repo GitHub-nya publik dan commit terakhir sudah ke-push
+- [ ] `bundle` baru saja dijalankan ulang setelah perubahan terakhir
+- [ ] `check` bersih, nggak ada keluhan yang diabaikan
+- [ ] Deadline masih jauh — bukan tinggal hitungan menit
+
+Kalau tujuh kotak ini sudah ke-centang semua, tombol submit itu tinggal formalitas.
 
 ---
 
